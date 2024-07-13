@@ -46,7 +46,7 @@ export const Appbar = () => {
   );
 };
 
-const logout = () => {
-  localStorage.removeItem("token");
-  alert("sign out sucessfully");
-};
+// const logout = () => {
+//   localStorage.removeItem("token");
+//   alert("sign out sucessfully");
+// };
